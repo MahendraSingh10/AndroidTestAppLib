@@ -29,7 +29,7 @@ class MainActivity : ComponentActivity() {
             }
         }
 
-        MsgCls.ShowMSDMessage(this, message = "Hi mahendra")
+        MsgCls.showMSDMessage(this, message = "Hi mahendra")
     }
 }
 
